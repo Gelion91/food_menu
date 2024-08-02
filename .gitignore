@@ -1,0 +1,4 @@
+env/
+food_menu/.env
+.idea/
+__pycache__/
